@@ -42,7 +42,7 @@
 
 ---
 
-[linkedin]: www.linkedin.com/in/NY-Yakushenko
+[linkedin]: https://linkedin.com/in/NY-Yakushenko
 [whatsapp]: https://wa.me/79085129232
 [telegram]: https://t.me/NYakushenko 
 [git]: https://github.com/PycckuuPC
